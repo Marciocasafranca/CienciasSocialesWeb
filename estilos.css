@@ -1,0 +1,21 @@
+
+/* Estilo para las imágenes del carrusel */
+.carousel-inner img {
+  height: 400px;
+  object-fit: cover;
+}
+
+/* Estilo base del cuerpo */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Títulos */
+h1, h2 {
+  font-weight: 700;
+}
+
+/* Pie de página */
+footer {
+  font-size: 0.9rem;
+}
