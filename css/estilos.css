@@ -1,0 +1,18 @@
+/* Estilo para el carrusel */
+.carousel-inner img {
+  height: 400px;
+  object-fit: cover;
+}
+
+/* Ajustes adicionales si deseas */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2 {
+  font-weight: 700;
+}
+
+footer {
+  font-size: 0.9rem;
+}
